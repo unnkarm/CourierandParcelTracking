@@ -1,4 +1,4 @@
-package com.courier.util;
+package com.courier.core;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

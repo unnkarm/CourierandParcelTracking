@@ -1,9 +1,9 @@
 package com.courier.view;
 
-import com.courier.controller.ShipmentController;
+import com.courier.core.ShipmentController;
 import com.courier.model.Person;
 import com.courier.model.Shipment;
-import com.courier.util.TrackingNumberGenerator;
+import com.courier.core.TrackingNumberGenerator;
 
 import javax.swing.*;
 import javax.swing.border.CompoundBorder;

@@ -1,6 +1,6 @@
 package com.courier.view;
 
-import com.courier.controller.ShipmentController;
+import com.courier.core.ShipmentController;
 import com.courier.database.DatabaseManager;
 import com.courier.model.Shipment;
 import com.courier.model.ShipmentStatus;
