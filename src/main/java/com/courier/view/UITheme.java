@@ -1,4 +1,4 @@
-package com.courier.ui;
+package com.courier.view;
 
 import com.courier.model.ShipmentStatus;
 

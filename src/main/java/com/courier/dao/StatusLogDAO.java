@@ -1,5 +1,6 @@
-package com.courier.database;
+package com.courier.dao;
 
+import com.courier.database.DatabaseManager;
 import com.courier.model.ShipmentStatus;
 import com.courier.model.StatusLog;
 
